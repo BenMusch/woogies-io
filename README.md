@@ -29,7 +29,7 @@ You have two options for developing locally.
 
 5. Run the following command in one of your terminal tabs, to run the backend, frontend, and databases.
 
-`docker-compose up`
+`docker compose up`
 
 6. Edit your `hosts` file, typically `/etc/hosts`, by adding this line:
 
